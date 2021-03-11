@@ -1,11 +1,13 @@
 {
   "images" : [
     {
+      "filename" : "40Alogot.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "20x20"
     },
     {
+      "filename" : "60Alogot.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "20x20"
@@ -26,16 +28,19 @@
       "size" : "40x40"
     },
     {
+      "filename" : "Copy of appstorevacLAlogot-1.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "40x40"
     },
     {
+      "filename" : "Copy of appstorevacLAlogot.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "60x60"
     },
     {
+      "filename" : "180revacLAlogot.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "60x60"
@@ -46,6 +51,7 @@
       "size" : "20x20"
     },
     {
+      "filename" : "40Alogot-1.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "20x20"
@@ -61,6 +67,7 @@
       "size" : "29x29"
     },
     {
+      "filename" : "40Alogot-2.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "40x40"
@@ -86,6 +93,7 @@
       "size" : "83.5x83.5"
     },
     {
+      "filename" : "appstorevacLAlogot.png",
       "idiom" : "ios-marketing",
       "scale" : "1x",
       "size" : "1024x1024"
