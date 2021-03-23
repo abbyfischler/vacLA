@@ -109,6 +109,14 @@
                                 <rect key="frame" x="79" y="80" width="257" height="88"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="22" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9so-4o-wE5">
+                                <rect key="frame" x="124" y="176" width="276" height="126"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text">Abby is a high school freshman from Los Angeles, California. She is an ambassador for Bit by Bit and Generation She.Abby was also a participant in Kode with Klossy’s web development camp last summer where she created herstemstory.net. HER STEM STORY is a website highlighting women who have made an impact on their area of STEM. Abby loves all things technology. Abby is a 2021 Los Angeles Affiliate Honorable Mention for the NCWIT Award for Aspirations in Computing (AiC).</string>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" placeholderIntrinsicWidth="165" placeholderIntrinsicHeight="49" text="Nora Omwami" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7Q0-MF-pJF">
                                 <rect key="frame" x="127" y="450" width="270" height="49"/>
                                 <constraints>
@@ -153,20 +161,11 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="22" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BcC-Yv-5qA">
-                                <rect key="frame" x="118" y="725" width="285" height="155"/>
+                                <rect key="frame" x="118" y="739" width="285" height="155"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <mutableString key="text">Residing in the city of Los Angeles, Kayla is a sophomore in high school who enjoys filmmaking and video editing.  Although she does not have experience with coding, Kayla has always loved helping others.  She has been able to do this in the past through volunteering over the summer to help deaf and hard of hearing children build self-esteem and communication skills through a theater program.  More recently, she has been volunteering weekly at her local farmers’ market to help provide contact-free distribution of goods from local farmers, artisans, and other local businesses.  In addition, she uses her video editing skills to create videos for the farmers’ market to promote building healthier communities through local food.  Through her work with the market, she is also able to donate fresh produce to community fridges.  Kayla is excited to take part in this project to help others as the needs of the communities around her continue to change.   </mutableString>
                                 <fontDescription key="fontDescription" type="system" pointSize="8"/>
                                 <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" placeholderIntrinsicWidth="165" placeholderIntrinsicHeight="49" text="Mia Nadel" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="T2K-JW-IMN">
-                                <rect key="frame" x="124" y="300" width="270" height="30"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="49" id="1rk-JV-bQd"/>
-                                </constraints>
-                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
-                                <color key="textColor" red="0.87638241049999999" green="0.47165989879999998" blue="0.4235107005" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="15" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LZo-9a-fgO">
@@ -197,12 +196,13 @@
                                 <rect key="frame" x="7" y="685" width="113" height="114"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="22" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9so-4o-wE5">
-                                <rect key="frame" x="124" y="176" width="276" height="126"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <string key="text">Abby is a high school freshman from Los Angeles, California. She is an ambassador for Bit by Bit and Generation She.Abby was also a participant in Kode with Klossy’s web development camp last summer where she created herstemstory.net. HER STEM STORY is a website highlighting women who have made an impact on their area of STEM. Abby loves all things technology. Abby is a 2021 Los Angeles Affiliate Honorable Mention for the NCWIT Award for Aspirations in Computing (AiC).</string>
-                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
-                                <nil key="textColor"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" placeholderIntrinsicWidth="165" placeholderIntrinsicHeight="49" text="Mia Nadel" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="T2K-JW-IMN">
+                                <rect key="frame" x="128" y="294" width="231" height="37"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="49" id="1rk-JV-bQd"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                <color key="textColor" red="0.87638241049999999" green="0.47165989879999998" blue="0.4235107005" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>

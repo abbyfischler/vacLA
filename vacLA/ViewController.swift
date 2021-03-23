@@ -6,6 +6,11 @@
 //
 
 import UIKit
+import UIKit
+import SafariServices
+
+
+
 
 class ViewController: UIViewController {
   
@@ -27,19 +32,40 @@ class ViewController: UIViewController {
        
         }
     @IBAction func webButton(_ sender: UIButton) {
-        let url = URL(string: "https://www.facebook.com")!
-           if UIApplication.shared.canOpenURL(url) {
-              UIApplication.shared.open(url, options: [:], completionHandler: nil)
-           }
         
-      
+        let url = URL(string: "https://www.google.com")
+        let vc = SFSafariViewController(url: url!)
+        present(vc, animated: true, completion: nil)
         
-     // UIApplication.OpenExternalURLOptionsKey(URL(string: //"https://www.youtube.com/watch?v=HNOOeRVq9Xw")! as URL, options: [:],completionHandler: nil)
+        
+    }
+        
+        
+        
+        
+    //let url = URL(string: "https://www.facebook.com")!
+      //  let url = URL(string: "http://www.facebook.com")!
+       // if UIApplication.shared.canOpenURL(url) {
+           // UIApplication.shared.open(url, options: [:], completionHandler: nil)
+            //If you want handle the completion block than
+           // UIApplication.shared.open(url, options: [:], completionHandler: { (success) in
+               //  print("Open url : \(success)")
+           // })
+        }
+          // if UIApplication.shared.canOpenURL(url) {
+             // UIApplication.shared.open(url, options: [:], completionHandler: nil)
+         //  }
+       // UIApplication.shared.canOpenURL(URL(string: "https://developer.apple.com/")!)
+
+       // if UIApplication.shared.canOpenURL(url) { // returns false if Chrome is default browser
+           //UIApplication.shared.open(url)
        
+    // UIApplication.shared.open(url) // opens chrome
         
-    }
+        
+    
         // Do any additional setup after loading the view.
-    }
+
 
 
  
