@@ -16,8 +16,6 @@
 		288A574E25F980DB00ECCAE7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 288A574C25F980DB00ECCAE7 /* LaunchScreen.storyboard */; };
 		288A575925F980DC00ECCAE7 /* vacLATests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 288A575825F980DC00ECCAE7 /* vacLATests.swift */; };
 		288A576425F980DC00ECCAE7 /* vacLAUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 288A576325F980DC00ECCAE7 /* vacLAUITests.swift */; };
-		288A577D25F9DA1200ECCAE7 /* vacLAlogotransparentbackground (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 288A577C25F9DA1200ECCAE7 /* vacLAlogotransparentbackground (1).png */; };
-		288A578525F9DFE300ECCAE7 /* vacLA in Resources */ = {isa = PBXBuildFile; fileRef = 288A578425F9DFE300ECCAE7 /* vacLA */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,7 +36,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		286694C225F9F3A50045CD60 /* abby.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = abby.png; sourceTree = "<group>"; };
 		288A573B25F980D900ECCAE7 /* vacLA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = vacLA.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		288A573E25F980D900ECCAE7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		288A574025F980D900ECCAE7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -54,8 +51,6 @@
 		288A575F25F980DC00ECCAE7 /* vacLAUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = vacLAUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		288A576325F980DC00ECCAE7 /* vacLAUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vacLAUITests.swift; sourceTree = "<group>"; };
 		288A576525F980DC00ECCAE7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		288A577C25F9DA1200ECCAE7 /* vacLAlogotransparentbackground (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "vacLAlogotransparentbackground (1).png"; path = "../../../Downloads/vacLAlogotransparentbackground (1).png"; sourceTree = "<group>"; };
-		288A578425F9DFE300ECCAE7 /* vacLA */ = {isa = PBXFileReference; lastKnownFileType = folder; name = vacLA; path = /Users/Abby/Desktop/vacLA; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,9 +106,6 @@
 				288A574225F980D900ECCAE7 /* ViewController.swift */,
 				288A574425F980D900ECCAE7 /* Main.storyboard */,
 				288A574A25F980DB00ECCAE7 /* Assets.xcassets */,
-				286694C225F9F3A50045CD60 /* abby.png */,
-				288A578425F9DFE300ECCAE7 /* vacLA */,
-				288A577C25F9DA1200ECCAE7 /* vacLAlogotransparentbackground (1).png */,
 				288A574C25F980DB00ECCAE7 /* LaunchScreen.storyboard */,
 				288A574F25F980DB00ECCAE7 /* Info.plist */,
 				288A574725F980D900ECCAE7 /* vacLA.xcdatamodeld */,
@@ -243,8 +235,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				288A574E25F980DB00ECCAE7 /* LaunchScreen.storyboard in Resources */,
-				288A578525F9DFE300ECCAE7 /* vacLA in Resources */,
-				288A577D25F9DA1200ECCAE7 /* vacLAlogotransparentbackground (1).png in Resources */,
 				288A574B25F980DB00ECCAE7 /* Assets.xcassets in Resources */,
 				288A574625F980D900ECCAE7 /* Main.storyboard in Resources */,
 			);

@@ -21,13 +21,26 @@ class ViewController: UIViewController {
     
     @IBAction func signUpE(_ sender: Any) {
     }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
        
         }
+    @IBAction func webButton(_ sender: UIButton) {
+        let url = URL(string: "https://www.facebook.com")!
+           if UIApplication.shared.canOpenURL(url) {
+              UIApplication.shared.open(url, options: [:], completionHandler: nil)
+           }
+        
+      
+        
+     // UIApplication.OpenExternalURLOptionsKey(URL(string: //"https://www.youtube.com/watch?v=HNOOeRVq9Xw")! as URL, options: [:],completionHandler: nil)
+       
+        
+    }
         // Do any additional setup after loading the view.
     }
 
 
-
+ 
 

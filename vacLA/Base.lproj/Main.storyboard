@@ -48,7 +48,7 @@
                                     <segue destination="Cw7-Fp-3Vj" kind="show" id="sAg-0p-csR"/>
                                 </connections>
                             </button>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="vacLAlogotransparentbackground (1).png" translatesAutoresizingMaskIntoConstraints="NO" id="QhZ-sx-tn9">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="vacLAlogotransparentbackground" translatesAutoresizingMaskIntoConstraints="NO" id="QhZ-sx-tn9">
                                 <rect key="frame" x="-30" y="159" width="475" height="233"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
@@ -90,17 +90,14 @@
         <!--View Controller-->
         <scene sceneID="qSK-Os-myo">
             <objects>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="j2r-L7-Jcx" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
                 <viewController id="fQ6-kh-ilm" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" ambiguous="YES" id="srg-Nd-tsJ">
+                    <view key="view" contentMode="scaleToFill" id="srg-Nd-tsJ">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="abby.png" adjustsImageSizeForAccessibilityContentSizeCategory="YES" id="6iQ-Tv-AOu">
-                                <rect key="frame" x="3" y="212" width="134" height="135"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" placeholderIntrinsicWidth="165" placeholderIntrinsicHeight="49" text="Abby Fischler" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="chM-oF-tyr">
-                                <rect key="frame" x="164" y="195" width="269" height="49"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" placeholderIntrinsicWidth="165" placeholderIntrinsicHeight="49" text="Abby Fischler" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="chM-oF-tyr">
+                                <rect key="frame" x="121" y="154" width="261" height="33"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="49" id="zXb-zX-F9K"/>
                                 </constraints>
@@ -108,18 +105,102 @@
                                 <color key="textColor" red="0.87638241049999999" green="0.47165989879999998" blue="0.4235107005" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="vacLAlogotransparentbackground (1).png" id="Dlu-A0-8YK">
-                                <rect key="frame" x="50" y="88" width="313" height="123"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="vacLAlogotransparentbackground" id="Dlu-A0-8YK">
+                                <rect key="frame" x="79" y="80" width="257" height="88"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" lineBreakMode="tailTruncation" numberOfLines="27" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" id="EmO-Dn-rDF">
-                                <rect key="frame" x="73" y="725" width="269" height="137"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" placeholderIntrinsicWidth="165" placeholderIntrinsicHeight="49" text="Nora Omwami" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7Q0-MF-pJF">
+                                <rect key="frame" x="127" y="450" width="270" height="49"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="137" id="cqQ-k3-WRu"/>
+                                    <constraint firstAttribute="height" constant="49" id="WTh-RX-k6A"/>
                                 </constraints>
-                                <string key="text"> VacLA matches LA’s underprivileged residents to a vaccination center near them. We want to do our part in helping our greater LA community have access to what they deserve to have. Getting vaccinated is a first big step is a big step to returning to our normal life. It is essential that everyone gets vaccinated no matter their race, ethnicity, socioeconomic status or gender they are.
-</string>
+                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                <color key="textColor" red="0.87638241049999999" green="0.47165989879999998" blue="0.4235107005" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="22" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qdp-0e-TIO">
+                                <rect key="frame" x="124" y="484" width="276" height="83"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text">Nora Omwami is a high school freshman from Los Angeles. From a young age, she has been interested in coding and has always pushed herself to try to learn new aspects of it. By attending programs such as Hack Club and The exploratory, her knowledge of JavaScript, HTML, CSS, and other coding languages continues to grow. It is a goal of Nora’s to help inspire other young girls of color like her to explore code and be able to impact the world.</string>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" placeholderIntrinsicWidth="165" placeholderIntrinsicHeight="49" text="Claire SooHoo" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lcl-YC-963">
+                                <rect key="frame" x="124" y="563" width="270" height="49"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="49" id="Vgc-9z-B9G"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                <color key="textColor" red="0.87638241049999999" green="0.47165989879999998" blue="0.4235107005" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="22" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="F9y-3D-ZWg">
+                                <rect key="frame" x="121" y="596" width="276" height="121"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text">Claire is a sophomore in high school from the city of Los Angeles who enjoys using her resources and research to improve her community, from volunteering at the local library to doing outreach at educational nonprofits. Her scattered experiences with coding include self-taught HTML and CSS as well as rudimentary JavaScript. She hopes this project will allow the COVID-19 vaccine to become more accessible to marginalized communities and the elderly within Los Angeles.</string>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" placeholderIntrinsicWidth="165" placeholderIntrinsicHeight="49" text="Kayla Sinnock" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ojk-pw-nfg">
+                                <rect key="frame" x="122" y="697" width="270" height="49"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="49" id="vsl-Lo-hwL"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                <color key="textColor" red="0.87638241049999999" green="0.47165989879999998" blue="0.4235107005" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="22" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BcC-Yv-5qA">
+                                <rect key="frame" x="118" y="725" width="285" height="155"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <mutableString key="text">Residing in the city of Los Angeles, Kayla is a sophomore in high school who enjoys filmmaking and video editing.  Although she does not have experience with coding, Kayla has always loved helping others.  She has been able to do this in the past through volunteering over the summer to help deaf and hard of hearing children build self-esteem and communication skills through a theater program.  More recently, she has been volunteering weekly at her local farmers’ market to help provide contact-free distribution of goods from local farmers, artisans, and other local businesses.  In addition, she uses her video editing skills to create videos for the farmers’ market to promote building healthier communities through local food.  Through her work with the market, she is also able to donate fresh produce to community fridges.  Kayla is excited to take part in this project to help others as the needs of the communities around her continue to change.   </mutableString>
+                                <fontDescription key="fontDescription" type="system" pointSize="8"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" placeholderIntrinsicWidth="165" placeholderIntrinsicHeight="49" text="Mia Nadel" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="T2K-JW-IMN">
+                                <rect key="frame" x="124" y="300" width="270" height="30"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="49" id="1rk-JV-bQd"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                <color key="textColor" red="0.87638241049999999" green="0.47165989879999998" blue="0.4235107005" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="15" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LZo-9a-fgO">
+                                <rect key="frame" x="124" y="324" width="276" height="135"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text">Mia is a high school junior from Los Angeles, California. Mia was the Recipient of UCLA Game Lab Summer Institute Diversity in Games Scholarship in 2019. In addition, Mia is the founder of a non-profit organization that has taught over 100 underprivileged children in 4th-6th grade how to code and build robots. Fundraising has yielded over $20,000 to further the mission. Mia is passionate about helping others by using technology which is why she is extremely passionate about this project. </string>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" image="abby" adjustsImageSizeForAccessibilityContentSizeCategory="YES" id="6iQ-Tv-AOu">
+                                <rect key="frame" x="9" y="154" width="113" height="114"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="abby" adjustsImageSizeForAccessibilityContentSizeCategory="YES" id="FZd-Rz-3ND">
+                                <rect key="frame" x="7" y="288" width="113" height="114"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="abby" adjustsImageSizeForAccessibilityContentSizeCategory="YES" id="PAI-fg-cAA">
+                                <rect key="frame" x="7" y="441" width="113" height="114"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="abby" adjustsImageSizeForAccessibilityContentSizeCategory="YES" id="aV0-QZ-tj3">
+                                <rect key="frame" x="7" y="563" width="113" height="114"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="abby" adjustsImageSizeForAccessibilityContentSizeCategory="YES" id="5ZO-NJ-511">
+                                <rect key="frame" x="7" y="685" width="113" height="114"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="22" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9so-4o-wE5">
+                                <rect key="frame" x="124" y="176" width="276" height="126"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text">Abby is a high school freshman from Los Angeles, California. She is an ambassador for Bit by Bit and Generation She.Abby was also a participant in Kode with Klossy’s web development camp last summer where she created herstemstory.net. HER STEM STORY is a website highlighting women who have made an impact on their area of STEM. Abby loves all things technology. Abby is a 2021 Los Angeles Affiliate Honorable Mention for the NCWIT Award for Aspirations in Computing (AiC).</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -129,49 +210,15 @@
                         <color key="backgroundColor" red="0.99145585300000005" green="0.99000018840000004" blue="0.8744940162" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                         <constraints>
                             <constraint firstItem="NvJ-Sa-DPk" firstAttribute="trailing" secondItem="chM-oF-tyr" secondAttribute="trailing" constant="-20" id="KfM-nO-9g4"/>
-                            <constraint firstItem="EmO-Dn-rDF" firstAttribute="trailing" secondItem="srg-Nd-tsJ" secondAttribute="trailingMargin" id="KiY-OF-FTu"/>
-                            <constraint firstItem="EmO-Dn-rDF" firstAttribute="centerX" secondItem="srg-Nd-tsJ" secondAttribute="centerX" id="QFm-ZT-0qi"/>
                             <constraint firstItem="chM-oF-tyr" firstAttribute="top" secondItem="NvJ-Sa-DPk" secondAttribute="top" constant="107" id="lQr-ou-Y0c"/>
-                            <constraint firstItem="EmO-Dn-rDF" firstAttribute="centerX" secondItem="Dlu-A0-8YK" secondAttribute="centerX" id="tnI-KP-PTN"/>
                             <constraint firstItem="chM-oF-tyr" firstAttribute="top" secondItem="6iQ-Tv-AOu" secondAttribute="top" constant="-17" id="vB9-eS-2YX"/>
-                            <constraint firstAttribute="bottomMargin" secondItem="EmO-Dn-rDF" secondAttribute="bottom" constant="-34" id="wB0-bf-RxP"/>
                             <constraint firstItem="chM-oF-tyr" firstAttribute="leading" secondItem="NvJ-Sa-DPk" secondAttribute="leading" constant="164" id="yYc-fw-KzE"/>
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="cs7-uB-ywy"/>
                 </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="j2r-L7-Jcx" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-1304.3478260869567" y="-999.10714285714278"/>
-        </scene>
-        <!--View Controller-->
-        <scene sceneID="OMn-Hu-Gjf">
-            <objects>
-                <viewController id="hr6-fQ-Dwr" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="jV3-K5-YqN">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="TERMS OF SERVICE ENGLISH TEST" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DJH-e3-y6H">
-                                <rect key="frame" x="71" y="259" width="273" height="48"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="vacLAlogotransparentbackground (1).png" translatesAutoresizingMaskIntoConstraints="NO" id="zKX-OB-OKG">
-                                <rect key="frame" x="51" y="103" width="313" height="123"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
-                        </subviews>
-                        <viewLayoutGuide key="safeArea" id="ymp-z1-MvO"/>
-                        <color key="backgroundColor" red="0.99145585300000005" green="0.99000018840000004" blue="0.8744940162" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
-                    </view>
-                    <navigationItem key="navigationItem" id="gnU-P7-Ckp"/>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="0CI-Gh-7gD" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="-255.07246376811597" y="-972.32142857142856"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="3Ex-hI-Y5t">
@@ -181,20 +228,23 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hRp-5U-fyW">
-                                <rect key="frame" x="75" y="536" width="265" height="89"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="vacLAlogotransparentbackground" translatesAutoresizingMaskIntoConstraints="NO" id="rl4-Mk-RJV">
+                                <rect key="frame" x="-30" y="170" width="475" height="233"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4GE-Z9-ZWi">
+                                <rect key="frame" x="75" y="484" width="265" height="84"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.87638241049999999" green="0.47165989879999998" blue="0.4235107005" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
-                                <state key="normal" title="Terms of Service"/>
+                                <state key="normal" title="About Us"/>
                                 <connections>
-                                    <action selector="ats:" destination="54W-dp-OFQ" eventType="touchUpInside" id="vFo-nc-QEI"/>
-                                    <action selector="tosE:" destination="54W-dp-OFQ" eventType="touchUpInside" id="Rx7-Ci-1h4"/>
-                                    <segue destination="hr6-fQ-Dwr" kind="show" id="q3w-u9-EbJ"/>
+                                    <action selector="aboutUsE:" destination="54W-dp-OFQ" eventType="touchUpInside" id="hCI-73-1DW"/>
+                                    <segue destination="fQ6-kh-ilm" kind="show" id="573-so-sBA"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fq7-Pt-fSE">
-                                <rect key="frame" x="75" y="653" width="265" height="73"/>
+                                <rect key="frame" x="75" y="602" width="265" height="73"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.87638241049999999" green="0.47165989879999998" blue="0.4235107005" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
@@ -203,21 +253,6 @@
                                     <action selector="atsEnglish:" destination="54W-dp-OFQ" eventType="touchUpInside" id="Dsb-7D-KXy"/>
                                     <action selector="signUpE:" destination="54W-dp-OFQ" eventType="touchUpInside" id="Yj3-jj-YfG"/>
                                     <segue destination="Nz9-3f-emg" kind="show" id="5t9-Mq-ZGo"/>
-                                </connections>
-                            </button>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="vacLAlogotransparentbackground (1).png" translatesAutoresizingMaskIntoConstraints="NO" id="rl4-Mk-RJV">
-                                <rect key="frame" x="-30" y="170" width="475" height="233"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4GE-Z9-ZWi">
-                                <rect key="frame" x="75" y="427" width="265" height="84"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="backgroundColor" red="0.87638241049999999" green="0.47165989879999998" blue="0.4235107005" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
-                                <state key="normal" title="About Us"/>
-                                <connections>
-                                    <action selector="aboutUsE:" destination="54W-dp-OFQ" eventType="touchUpInside" id="hCI-73-1DW"/>
-                                    <segue destination="fQ6-kh-ilm" kind="show" id="573-so-sBA"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -232,6 +267,47 @@
             <point key="canvasLocation" x="686.95652173913049" y="-579.24107142857144"/>
         </scene>
         <!--View Controller-->
+        <scene sceneID="uub-Eg-B8D">
+            <objects>
+                <viewController id="Yro-HK-d33" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="hSN-DB-e8c">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="vacLAlogotransparentbackground" translatesAutoresizingMaskIntoConstraints="NO" id="kcw-gF-55N">
+                                <rect key="frame" x="-30" y="88" width="475" height="233"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Dtm-st-JAx">
+                                <rect key="frame" x="75" y="504" width="265" height="84"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.87638241049999999" green="0.47165989879999998" blue="0.4235107005" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <state key="normal" title="Click here"/>
+                                <connections>
+                                    <action selector="aboutUsE:" destination="54W-dp-OFQ" eventType="touchUpInside" id="S9O-A7-Tpm"/>
+                                    <action selector="webButton:" destination="sOS-dr-VTg" eventType="touchUpInside" id="Gnd-dt-jrq"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Yes you qualify click below to find your closest vaccination center" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UkV-Pt-tXJ">
+                                <rect key="frame" x="33" y="405" width="349" height="86"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="23"/>
+                                <color key="textColor" red="0.30720782279999997" green="0.67359995839999998" blue="0.71765762570000002" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <color key="highlightedColor" red="0.97123044729999997" green="0.85682213309999999" blue="0.73331338170000004" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="kwq-pu-5vP"/>
+                        <color key="backgroundColor" red="0.99145585300000005" green="0.99000018840000004" blue="0.8744940162" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="BZX-Yz-Btd"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="viC-GJ-2nT" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+                <exit id="sOS-dr-VTg" userLabel="Exit" sceneMemberID="exit"/>
+            </objects>
+            <point key="canvasLocation" x="614.49275362318849" y="-2021.6517857142856"/>
+        </scene>
+        <!--View Controller-->
         <scene sceneID="8x5-6T-OLL">
             <objects>
                 <viewController id="Nz9-3f-emg" sceneMemberID="viewController">
@@ -239,27 +315,39 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="vacLAlogotransparentbackground (1).png" translatesAutoresizingMaskIntoConstraints="NO" id="fFa-Rn-7QJ">
-                                <rect key="frame" x="51" y="88" width="313" height="123"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="vacLAlogotransparentbackground" translatesAutoresizingMaskIntoConstraints="NO" id="yjB-P2-i2f">
+                                <rect key="frame" x="-30" y="136" width="475" height="233"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <pickerView contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="rXR-FW-gSf">
-                                <rect key="frame" x="0.0" y="329" width="414" height="162"/>
-                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
-                            </pickerView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="100k" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ucW-Hf-qS3">
-                                <rect key="frame" x="147" y="516" width="164" height="34"/>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5C6-Ei-YZs">
+                                <rect key="frame" x="75" y="603" width="265" height="73"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Questions" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lTa-S8-VSy">
-                                <rect key="frame" x="160" y="253" width="188" height="27"/>
+                                <color key="backgroundColor" red="0.87638241049999999" green="0.47165989879999998" blue="0.4235107005" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <state key="normal" title="No"/>
+                                <connections>
+                                    <action selector="atsEnglish:" destination="54W-dp-OFQ" eventType="touchUpInside" id="pw0-db-OjB"/>
+                                    <action selector="signUpE:" destination="54W-dp-OFQ" eventType="touchUpInside" id="oo3-7M-umI"/>
+                                    <segue destination="YQW-Lg-eLb" kind="show" id="a7B-mW-nnH"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Mqr-dm-ah9">
+                                <rect key="frame" x="75" y="485" width="265" height="84"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="22"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
+                                <color key="backgroundColor" red="0.87638241049999999" green="0.47165989879999998" blue="0.4235107005" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <state key="normal" title="Yes"/>
+                                <connections>
+                                    <action selector="aboutUsE:" destination="54W-dp-OFQ" eventType="touchUpInside" id="ZII-po-Wjr"/>
+                                    <segue destination="Yro-HK-d33" kind="show" id="o37-s3-j9i"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Do you make below 65k per year?" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BDE-S3-XF6">
+                                <rect key="frame" x="40" y="404" width="335" height="28"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="23"/>
+                                <color key="textColor" red="0.30720782279999997" green="0.67359995839999998" blue="0.71765762570000002" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <color key="highlightedColor" red="0.97123044729999997" green="0.85682213309999999" blue="0.73331338170000004" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                             </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="xCS-5b-uMg"/>
@@ -271,9 +359,38 @@
             </objects>
             <point key="canvasLocation" x="640.57971014492762" y="-1337.2767857142856"/>
         </scene>
+        <!--View Controller-->
+        <scene sceneID="ydh-Bs-yb7">
+            <objects>
+                <viewController id="YQW-Lg-eLb" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="VES-HW-Sep">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="vacLAlogotransparentbackground" translatesAutoresizingMaskIntoConstraints="NO" id="iUm-OC-TXs">
+                                <rect key="frame" x="-30" y="88" width="475" height="233"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Sorry, but you don't qualify at this time." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="12" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mxi-8A-kHl">
+                                <rect key="frame" x="59" y="373" width="296" height="206"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="41"/>
+                                <color key="textColor" red="0.30720782279999997" green="0.67359995839999998" blue="0.71765762570000002" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <color key="highlightedColor" red="0.97123044729999997" green="0.85682213309999999" blue="0.73331338170000004" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="FMu-My-dIq"/>
+                        <color key="backgroundColor" red="0.99145585300000005" green="0.99000018840000004" blue="0.8744940162" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="hj5-bE-YWO"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="3jg-ui-v28" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1555.072463768116" y="-1318.5267857142856"/>
+        </scene>
     </scenes>
     <resources>
-        <image name="abby.png" width="375" height="375"/>
-        <image name="vacLAlogotransparentbackground (1).png" width="375" height="375"/>
+        <image name="abby" width="500" height="500"/>
+        <image name="vacLAlogotransparentbackground" width="500" height="500"/>
     </resources>
 </document>
