@@ -117,7 +117,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" placeholderIntrinsicWidth="165" placeholderIntrinsicHeight="49" text="Nora Omwami" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7Q0-MF-pJF">
-                                <rect key="frame" x="127" y="450" width="270" height="49"/>
+                                <rect key="frame" x="124" y="451" width="270" height="31"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="49" id="WTh-RX-k6A"/>
                                 </constraints>
@@ -126,7 +126,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="22" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qdp-0e-TIO">
-                                <rect key="frame" x="124" y="484" width="276" height="83"/>
+                                <rect key="frame" x="121" y="478" width="276" height="83"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <string key="text">Nora Omwami is a high school freshman from Los Angeles. From a young age, she has been interested in coding and has always pushed herself to try to learn new aspects of it. By attending programs such as Hack Club and The exploratory, her knowledge of JavaScript, HTML, CSS, and other coding languages continues to grow. It is a goal of Nora’s to help inspire other young girls of color like her to explore code and be able to impact the world.</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
@@ -134,7 +134,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" placeholderIntrinsicWidth="165" placeholderIntrinsicHeight="49" text="Claire SooHoo" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lcl-YC-963">
-                                <rect key="frame" x="124" y="563" width="270" height="49"/>
+                                <rect key="frame" x="121" y="549" width="270" height="49"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="49" id="Vgc-9z-B9G"/>
                                 </constraints>
@@ -143,7 +143,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="22" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="F9y-3D-ZWg">
-                                <rect key="frame" x="121" y="596" width="276" height="121"/>
+                                <rect key="frame" x="122" y="582" width="276" height="121"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <string key="text">Claire is a sophomore in high school from the city of Los Angeles who enjoys using her resources and research to improve her community, from volunteering at the local library to doing outreach at educational nonprofits. Her scattered experiences with coding include self-taught HTML and CSS as well as rudimentary JavaScript. She hopes this project will allow the COVID-19 vaccine to become more accessible to marginalized communities and the elderly within Los Angeles.</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="10"/>
@@ -151,7 +151,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" placeholderIntrinsicWidth="165" placeholderIntrinsicHeight="49" text="Kayla Sinnock" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ojk-pw-nfg">
-                                <rect key="frame" x="122" y="697" width="270" height="49"/>
+                                <rect key="frame" x="124" y="685" width="270" height="49"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="49" id="vsl-Lo-hwL"/>
                                 </constraints>
@@ -159,11 +159,11 @@
                                 <color key="textColor" red="0.87638241049999999" green="0.47165989879999998" blue="0.4235107005" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="22" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BcC-Yv-5qA">
-                                <rect key="frame" x="118" y="739" width="285" height="155"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="15" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LZo-9a-fgO">
+                                <rect key="frame" x="121" y="324" width="276" height="135"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <string key="text">Residing in the city of Los Angeles, Kayla is a sophomore in high school who enjoys filmmaking and video editing.  Although she does not have experience with coding, Kayla has always loved helping others.  She has been able to do this in the past through volunteering over the summer to help deaf and hard of hearing children build self-esteem and communication skills through a theater program.  More recently, she has been volunteering weekly at her local farmers’ market to help provide contact-free distribution of goods from local farmers, artisans, and other local businesses.  In addition, she uses her video editing skills to create videos for the farmers’ market to promote building healthier communities through local food.  Through her work with the market, she is also able to donate fresh produce to community fridges.  Kayla is excited to take part in this project to help others as the needs of the communities around her continue to change.   </string>
-                                <fontDescription key="fontDescription" type="system" pointSize="8"/>
+                                <string key="text">Mia is a high school junior from Los Angeles, California. Mia was the Recipient of UCLA Game Lab Summer Institute Diversity in Games Scholarship in 2019. In addition, Mia is the founder of a non-profit organization that has taught over 100 underprivileged children in 4th-6th grade how to code and build robots. Fundraising has yielded over $20,000 to further the mission. Mia is passionate about helping others by using technology which is why she is extremely passionate about this project. </string>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
@@ -175,20 +175,20 @@
                                 <rect key="frame" x="7" y="288" width="113" height="114"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="abby" adjustsImageSizeForAccessibilityContentSizeCategory="YES" id="PAI-fg-cAA">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="nora" adjustsImageSizeForAccessibilityContentSizeCategory="YES" id="PAI-fg-cAA">
                                 <rect key="frame" x="7" y="441" width="113" height="114"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="abby" adjustsImageSizeForAccessibilityContentSizeCategory="YES" id="aV0-QZ-tj3">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="claire" adjustsImageSizeForAccessibilityContentSizeCategory="YES" id="aV0-QZ-tj3">
                                 <rect key="frame" x="7" y="563" width="113" height="114"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="abby" adjustsImageSizeForAccessibilityContentSizeCategory="YES" id="5ZO-NJ-511">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="kayla" adjustsImageSizeForAccessibilityContentSizeCategory="YES" id="5ZO-NJ-511">
                                 <rect key="frame" x="7" y="685" width="113" height="114"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" placeholderIntrinsicWidth="165" placeholderIntrinsicHeight="49" text="Mia Nadel" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="T2K-JW-IMN">
-                                <rect key="frame" x="128" y="294" width="231" height="37"/>
+                                <rect key="frame" x="121" y="294" width="231" height="37"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="49" id="1rk-JV-bQd"/>
                                 </constraints>
@@ -196,11 +196,11 @@
                                 <color key="textColor" red="0.87638241049999999" green="0.47165989879999998" blue="0.4235107005" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="15" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LZo-9a-fgO">
-                                <rect key="frame" x="122" y="315" width="276" height="135"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="22" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BcC-Yv-5qA">
+                                <rect key="frame" x="121" y="720" width="285" height="155"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <string key="text">Mia is a high school junior from Los Angeles, California. Mia was the Recipient of UCLA Game Lab Summer Institute Diversity in Games Scholarship in 2019. In addition, Mia is the founder of a non-profit organization that has taught over 100 underprivileged children in 4th-6th grade how to code and build robots. Fundraising has yielded over $20,000 to further the mission. Mia is passionate about helping others by using technology which is why she is extremely passionate about this project. </string>
-                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                                <string key="text">Residing in the city of Los Angeles, Kayla is a sophomore in high school who enjoys filmmaking and video editing.  Although she does not have experience with coding, Kayla has always loved helping others.  She has been able to do this in the past through volunteering over the summer to help deaf and hard of hearing children build self-esteem and communication skills through a theater program.  More recently, she has been volunteering weekly at her local farmers’ market to help provide contact-free distribution of goods from local farmers, artisans, and other local businesses.  In addition, she uses her video editing skills to create videos for the farmers’ market to promote building healthier communities through local food.  Through her work with the market, she is also able to donate fresh produce to community fridges.  Kayla is excited to take part in this project to help others as the needs of the communities around her continue to change.   </string>
+                                <fontDescription key="fontDescription" type="system" pointSize="8"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
@@ -391,7 +391,10 @@
     </scenes>
     <resources>
         <image name="abby" width="500" height="500"/>
+        <image name="claire" width="500" height="500"/>
+        <image name="kayla" width="500" height="500"/>
         <image name="mia" width="500" height="500"/>
+        <image name="nora" width="500" height="500"/>
         <image name="vacLAlogotransparentbackground" width="500" height="500"/>
     </resources>
 </document>
