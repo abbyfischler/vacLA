@@ -1,5 +1,6 @@
+
 //
-//  ViewController.swift
+//
 //  vacLA
 //
 //  Created by Abby Fischler on 3/10/21.
@@ -9,30 +10,23 @@ import UIKit
 import WebKit
 
   
-class ViewController: UIViewController, WKUIDelegate{
+class mapView: UIViewController, WKUIDelegate{
     
   
-    @IBOutlet var logo: UIImageView!
-    @IBOutlet var english: UIButton!
-    @IBOutlet var languages: UIButton!
-    @IBAction func aboutUsE(_ sender: Any) {
-        
-    }
-    @IBAction func tosE(_ sender: Any) {
-        
-    }
-    
-    @IBAction func signUpE(_ sender: Any) {
-    }
-    
-
-    
-   
     @IBOutlet var webView: WKWebView!
     
     //  @IBOutlet var webView: ViewController!
     override func viewDidLoad() {
         super.viewDidLoad()
+        let webConfiguration = WKWebViewConfiguration()
+               webView = WKWebView(frame: .zero, configuration: webConfiguration)
+               webView.uiDelegate = self
+               view = webView
+        
+        let myURL = URL(string:"https://www.google.com/maps/d/u/0/edit?mid=16LrbL9tMzlxDzG1FEdSaP8nBntAPd2j6&usp=sharing")
+               let myRequest = URLRequest(url: myURL!)
+               webView.load(myRequest)
+    
 }
         
       
