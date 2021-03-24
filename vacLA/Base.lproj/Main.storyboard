@@ -90,7 +90,6 @@
         <!--View Controller-->
         <scene sceneID="qSK-Os-myo">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="j2r-L7-Jcx" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
                 <viewController id="fQ6-kh-ilm" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="srg-Nd-tsJ">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
@@ -163,16 +162,8 @@
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="22" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BcC-Yv-5qA">
                                 <rect key="frame" x="118" y="739" width="285" height="155"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <mutableString key="text">Residing in the city of Los Angeles, Kayla is a sophomore in high school who enjoys filmmaking and video editing.  Although she does not have experience with coding, Kayla has always loved helping others.  She has been able to do this in the past through volunteering over the summer to help deaf and hard of hearing children build self-esteem and communication skills through a theater program.  More recently, she has been volunteering weekly at her local farmers’ market to help provide contact-free distribution of goods from local farmers, artisans, and other local businesses.  In addition, she uses her video editing skills to create videos for the farmers’ market to promote building healthier communities through local food.  Through her work with the market, she is also able to donate fresh produce to community fridges.  Kayla is excited to take part in this project to help others as the needs of the communities around her continue to change.   </mutableString>
+                                <string key="text">Residing in the city of Los Angeles, Kayla is a sophomore in high school who enjoys filmmaking and video editing.  Although she does not have experience with coding, Kayla has always loved helping others.  She has been able to do this in the past through volunteering over the summer to help deaf and hard of hearing children build self-esteem and communication skills through a theater program.  More recently, she has been volunteering weekly at her local farmers’ market to help provide contact-free distribution of goods from local farmers, artisans, and other local businesses.  In addition, she uses her video editing skills to create videos for the farmers’ market to promote building healthier communities through local food.  Through her work with the market, she is also able to donate fresh produce to community fridges.  Kayla is excited to take part in this project to help others as the needs of the communities around her continue to change.   </string>
                                 <fontDescription key="fontDescription" type="system" pointSize="8"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="15" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LZo-9a-fgO">
-                                <rect key="frame" x="124" y="324" width="276" height="135"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <string key="text">Mia is a high school junior from Los Angeles, California. Mia was the Recipient of UCLA Game Lab Summer Institute Diversity in Games Scholarship in 2019. In addition, Mia is the founder of a non-profit organization that has taught over 100 underprivileged children in 4th-6th grade how to code and build robots. Fundraising has yielded over $20,000 to further the mission. Mia is passionate about helping others by using technology which is why she is extremely passionate about this project. </string>
-                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
@@ -180,7 +171,7 @@
                                 <rect key="frame" x="9" y="154" width="113" height="114"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="abby" adjustsImageSizeForAccessibilityContentSizeCategory="YES" id="FZd-Rz-3ND">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="mia" adjustsImageSizeForAccessibilityContentSizeCategory="YES" id="FZd-Rz-3ND">
                                 <rect key="frame" x="7" y="288" width="113" height="114"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
@@ -205,6 +196,14 @@
                                 <color key="textColor" red="0.87638241049999999" green="0.47165989879999998" blue="0.4235107005" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="15" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LZo-9a-fgO">
+                                <rect key="frame" x="122" y="315" width="276" height="135"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text">Mia is a high school junior from Los Angeles, California. Mia was the Recipient of UCLA Game Lab Summer Institute Diversity in Games Scholarship in 2019. In addition, Mia is the founder of a non-profit organization that has taught over 100 underprivileged children in 4th-6th grade how to code and build robots. Fundraising has yielded over $20,000 to further the mission. Mia is passionate about helping others by using technology which is why she is extremely passionate about this project. </string>
+                                <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="NvJ-Sa-DPk"/>
                         <color key="backgroundColor" red="0.99145585300000005" green="0.99000018840000004" blue="0.8744940162" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
@@ -217,6 +216,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="cs7-uB-ywy"/>
                 </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="j2r-L7-Jcx" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-1304.3478260869567" y="-999.10714285714278"/>
         </scene>
@@ -391,6 +391,7 @@
     </scenes>
     <resources>
         <image name="abby" width="500" height="500"/>
+        <image name="mia" width="500" height="500"/>
         <image name="vacLAlogotransparentbackground" width="500" height="500"/>
     </resources>
 </document>
