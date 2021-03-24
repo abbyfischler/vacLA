@@ -4,6 +4,7 @@
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
@@ -44,7 +45,6 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <state key="normal" title="English"/>
                                 <connections>
-                                    <action selector="aboutUsE:" destination="54W-dp-OFQ" eventType="touchUpInside" id="aYc-W8-Z70"/>
                                     <segue destination="Cw7-Fp-3Vj" kind="show" id="sAg-0p-csR"/>
                                 </connections>
                             </button>
@@ -197,7 +197,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="22" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BcC-Yv-5qA">
-                                <rect key="frame" x="121" y="720" width="285" height="155"/>
+                                <rect key="frame" x="118" y="701" width="285" height="155"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <string key="text">Residing in the city of Los Angeles, Kayla is a sophomore in high school who enjoys filmmaking and video editing.  Although she does not have experience with coding, Kayla has always loved helping others.  She has been able to do this in the past through volunteering over the summer to help deaf and hard of hearing children build self-esteem and communication skills through a theater program.  More recently, she has been volunteering weekly at her local farmers’ market to help provide contact-free distribution of goods from local farmers, artisans, and other local businesses.  In addition, she uses her video editing skills to create videos for the farmers’ market to promote building healthier communities through local food.  Through her work with the market, she is also able to donate fresh produce to community fridges.  Kayla is excited to take part in this project to help others as the needs of the communities around her continue to change.   </string>
                                 <fontDescription key="fontDescription" type="system" pointSize="8"/>
@@ -285,7 +285,6 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <state key="normal" title="Click here"/>
                                 <connections>
-                                    <action selector="aboutUsE:" destination="54W-dp-OFQ" eventType="touchUpInside" id="S9O-A7-Tpm"/>
                                     <action selector="webButton:" destination="sOS-dr-VTg" eventType="touchUpInside" id="Gnd-dt-jrq"/>
                                 </connections>
                             </button>
@@ -306,6 +305,40 @@
                 <exit id="sOS-dr-VTg" userLabel="Exit" sceneMemberID="exit"/>
             </objects>
             <point key="canvasLocation" x="614.49275362318849" y="-2021.6517857142856"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="uVk-3I-ob4">
+            <objects>
+                <viewController id="phi-bH-0pY" customClass="ViewController" customModule="vacLA" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="izY-rd-oww">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <wkWebView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="bxd-e1-web" customClass="ViewController" customModule="vacLA" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="44" width="414" height="818"/>
+                                <color key="backgroundColor" red="0.36078431370000003" green="0.38823529410000002" blue="0.4039215686" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <wkWebViewConfiguration key="configuration">
+                                    <audiovisualMediaTypes key="mediaTypesRequiringUserActionForPlayback" none="YES"/>
+                                    <wkPreferences key="preferences"/>
+                                </wkWebViewConfiguration>
+                            </wkWebView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="P4p-kS-d7X"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="bxd-e1-web" firstAttribute="leading" secondItem="P4p-kS-d7X" secondAttribute="leading" id="2ef-wZ-G7a"/>
+                            <constraint firstItem="P4p-kS-d7X" firstAttribute="bottom" secondItem="bxd-e1-web" secondAttribute="bottom" id="Yta-sM-1lb"/>
+                            <constraint firstItem="P4p-kS-d7X" firstAttribute="trailing" secondItem="bxd-e1-web" secondAttribute="trailing" id="kus-ok-qot"/>
+                            <constraint firstItem="bxd-e1-web" firstAttribute="top" secondItem="P4p-kS-d7X" secondAttribute="top" id="kwB-AQ-htm"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="webview" destination="bxd-e1-web" id="Eu2-UY-Jd9"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="H7t-dL-c2l" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1383" y="-2020"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="8x5-6T-OLL">
@@ -396,5 +429,8 @@
         <image name="mia" width="500" height="500"/>
         <image name="nora" width="500" height="500"/>
         <image name="vacLAlogotransparentbackground" width="500" height="500"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
     </resources>
 </document>

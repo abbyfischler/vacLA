@@ -6,13 +6,13 @@
 //
 
 import UIKit
-import UIKit
-import SafariServices
+import WebKit
 
-
-
-
+  
 class ViewController: UIViewController {
+
+    @IBOutlet var webview: WKWebView!
+    
   
     @IBOutlet var logo: UIImageView!
     @IBOutlet var english: UIButton!
@@ -29,19 +29,20 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-       
+      
         }
+   
     @IBAction func webButton(_ sender: UIButton) {
-        
-        let url = URL(string: "https://www.google.com")
-        let vc = SFSafariViewController(url: url!)
-        present(vc, animated: true, completion: nil)
-        
-        
     }
+}
         
-        
-        
+      
+
+
+
+//let vc = SFSafariViewController(url: URL(string: "https://apple.com")!)
+//present(vc,animated:true)
+
         
     //let url = URL(string: "https://www.facebook.com")!
       //  let url = URL(string: "http://www.facebook.com")!
@@ -51,7 +52,7 @@ class ViewController: UIViewController {
            // UIApplication.shared.open(url, options: [:], completionHandler: { (success) in
                //  print("Open url : \(success)")
            // })
-        }
+   
           // if UIApplication.shared.canOpenURL(url) {
              // UIApplication.shared.open(url, options: [:], completionHandler: nil)
          //  }
