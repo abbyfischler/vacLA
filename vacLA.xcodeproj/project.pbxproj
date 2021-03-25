@@ -16,7 +16,6 @@
 		288A574E25F980DB00ECCAE7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 288A574C25F980DB00ECCAE7 /* LaunchScreen.storyboard */; };
 		288A575925F980DC00ECCAE7 /* vacLATests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 288A575825F980DC00ECCAE7 /* vacLATests.swift */; };
 		288A576425F980DC00ECCAE7 /* vacLAUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 288A576325F980DC00ECCAE7 /* vacLAUITests.swift */; };
-		28F0ECF8260B049F005DD15F /* mapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28F0ECF7260B049F005DD15F /* mapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,7 +51,6 @@
 		288A575F25F980DC00ECCAE7 /* vacLAUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = vacLAUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		288A576325F980DC00ECCAE7 /* vacLAUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vacLAUITests.swift; sourceTree = "<group>"; };
 		288A576525F980DC00ECCAE7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		28F0ECF7260B049F005DD15F /* mapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,7 +105,6 @@
 				288A574025F980D900ECCAE7 /* SceneDelegate.swift */,
 				288A574225F980D900ECCAE7 /* ViewController.swift */,
 				288A574425F980D900ECCAE7 /* Main.storyboard */,
-				28F0ECF7260B049F005DD15F /* mapView.swift */,
 				288A574A25F980DB00ECCAE7 /* Assets.xcassets */,
 				288A574C25F980DB00ECCAE7 /* LaunchScreen.storyboard */,
 				288A574F25F980DB00ECCAE7 /* Info.plist */,
@@ -267,7 +264,6 @@
 				288A574325F980D900ECCAE7 /* ViewController.swift in Sources */,
 				288A574925F980D900ECCAE7 /* vacLA.xcdatamodeld in Sources */,
 				288A573F25F980D900ECCAE7 /* AppDelegate.swift in Sources */,
-				28F0ECF8260B049F005DD15F /* mapView.swift in Sources */,
 				288A574125F980D900ECCAE7 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

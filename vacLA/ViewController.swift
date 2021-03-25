@@ -11,62 +11,12 @@ import WebKit
   
 class ViewController: UIViewController, WKUIDelegate{
     
-  
-    @IBOutlet var logo: UIImageView!
-    @IBOutlet var english: UIButton!
-    @IBOutlet var languages: UIButton!
-    @IBAction func aboutUsE(_ sender: Any) {
-        
-    }
-    @IBAction func tosE(_ sender: Any) {
-        
-    }
-    
-    @IBAction func signUpE(_ sender: Any) {
-    }
-    
-
-    
-   
-    @IBOutlet var webView: WKWebView!
-    
-    //  @IBOutlet var webView: ViewController!
     override func viewDidLoad() {
         super.viewDidLoad()
 }
         
-      
-}
-
-
-//let vc = SFSafariViewController(url: URL(string: "https://apple.com")!)
-//present(vc,animated:true)
-
-        
-    //let url = URL(string: "https://www.facebook.com")!
-      //  let url = URL(string: "http://www.facebook.com")!
-       // if UIApplication.shared.canOpenURL(url) {
-           // UIApplication.shared.open(url, options: [:], completionHandler: nil)
-            //If you want handle the completion block than
-           // UIApplication.shared.open(url, options: [:], completionHandler: { (success) in
-               //  print("Open url : \(success)")
-           // })
-   
-          // if UIApplication.shared.canOpenURL(url) {
-             // UIApplication.shared.open(url, options: [:], completionHandler: nil)
-         //  }
-       // UIApplication.shared.canOpenURL(URL(string: "https://developer.apple.com/")!)
-
-       // if UIApplication.shared.canOpenURL(url) { // returns false if Chrome is default browser
-           //UIApplication.shared.open(url)
-       
-    // UIApplication.shared.open(url) // opens chrome
-        
-        
+    @IBAction func openMap(_ sender: Any) {
+        UIApplication.shared.open(URL(string:"https://www.google.com/maps/d/u/0/edit?mid=16LrbL9tMzlxDzG1FEdSaP8nBntAPd2j6&usp=sharing")!)
+    }
     
-        // Do any additional setup after loading the view.
-
-
-
- 
-
+}
