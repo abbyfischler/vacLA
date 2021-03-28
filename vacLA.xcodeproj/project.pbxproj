@@ -103,8 +103,8 @@
 			children = (
 				288A573E25F980D900ECCAE7 /* AppDelegate.swift */,
 				288A574025F980D900ECCAE7 /* SceneDelegate.swift */,
-				288A574225F980D900ECCAE7 /* ViewController.swift */,
 				288A574425F980D900ECCAE7 /* Main.storyboard */,
+				288A574225F980D900ECCAE7 /* ViewController.swift */,
 				288A574A25F980DB00ECCAE7 /* Assets.xcassets */,
 				288A574C25F980DB00ECCAE7 /* LaunchScreen.storyboard */,
 				288A574F25F980DB00ECCAE7 /* Info.plist */,
