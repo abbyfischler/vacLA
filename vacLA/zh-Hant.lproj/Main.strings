@@ -1,0 +1,225 @@
+
+/* Class = "UIButton"; normalTitle = "報名\n"; ObjectID = "0Q6-5o-opT"; */
+"0Q6-5o-opT.normalTitle" = "報名\n";
+
+/* Class = "UILabel"; text = " 抱歉，您目前沒有資格"; ObjectID = "18i-qW-cpf"; */
+"18i-qW-cpf.text" = " 抱歉，您目前沒有資格";
+
+/* Class = "UILabel"; text = "Sorry, but you don't qualify at this time."; ObjectID = "2Gs-IA-ZVF"; */
+"2Gs-IA-ZVF.text" = "Sorry, but you don't qualify at this time.";
+
+/* Class = "UIButton"; normalTitle = "關於我們\n"; ObjectID = "2cf-tt-xTg"; */
+"2cf-tt-xTg.normalTitle" = "關於我們\n";
+
+/* Class = "UIButton"; normalTitle = "About Us"; ObjectID = "4GE-Z9-ZWi"; */
+"4GE-Z9-ZWi.normalTitle" = "About Us";
+
+/* Class = "UILabel"; text = "First Dose:"; ObjectID = "4b8-LH-oW2"; */
+"4b8-LH-oW2.text" = "First Dose:";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "5C6-Ei-YZs"; */
+"5C6-Ei-YZs.normalTitle" = "No";
+
+/* Class = "UILabel"; text = "Nora Omwami"; ObjectID = "7Q0-MF-pJF"; */
+"7Q0-MF-pJF.text" = "Nora Omwami";
+
+/* Class = "UILabel"; text = "1. White vaccine record card or electronic vaccine record\n2. Photo ID"; ObjectID = "87n-WE-ATn"; */
+"87n-WE-ATn.text" = "1. White vaccine record card or electronic vaccine record\n2. Photo ID";
+
+/* Class = "UILabel"; text = "Primera dosis:"; ObjectID = "8fh-ww-g2s"; */
+"8fh-ww-g2s.text" = "Primera dosis:";
+
+/* Class = "UILabel"; text = "Abby is a high school freshman from Los Angeles, California. She is an ambassador for Bit by Bit and Generation She.Abby was also a participant in Kode with Klossy’s web development camp last summer where she created herstemstory.net. HER STEM STORY is a website highlighting women who have made an impact on their area of STEM. Abby loves all things technology. Abby is a 2021 Los Angeles Affiliate Honorable Mention for the NCWIT Award for Aspirations in Computing (AiC)."; ObjectID = "9so-4o-wE5"; */
+"9so-4o-wE5.text" = "Abby is a high school freshman from Los Angeles, California. She is an ambassador for Bit by Bit and Generation She.Abby was also a participant in Kode with Klossy’s web development camp last summer where she created herstemstory.net. HER STEM STORY is a website highlighting women who have made an impact on their area of STEM. Abby loves all things technology. Abby is a 2021 Los Angeles Affiliate Honorable Mention for the NCWIT Award for Aspirations in Computing (AiC).";
+
+/* Class = "UILabel"; text = "1.白色疫苗记录卡或电子疫苗记录\n2.带照片的证件"; ObjectID = "AEv-Rt-VJl"; */
+"AEv-Rt-VJl.text" = "1.白色疫苗记录卡或电子疫苗记录\n2.带照片的证件";
+
+/* Class = "UIButton"; normalTitle = "中國人"; ObjectID = "B95-R6-sTr"; */
+"B95-R6-sTr.normalTitle" = "中國人";
+
+/* Class = "UILabel"; text = "Do you identify as African American, Native American, Latin American, Asian or middleastern?"; ObjectID = "BDE-S3-XF6"; */
+"BDE-S3-XF6.text" = "Do you identify as African American, Native American, Latin American, Asian or middleastern?";
+
+/* Class = "UILabel"; text = "Residing in the city of Los Angeles, Kayla is a sophomore in high school who enjoys filmmaking and video editing.  Although she does not have experience with coding, Kayla has always loved helping others.  She has been able to do this in the past through volunteering over the summer to help deaf and hard of hearing children build self-esteem and communication skills through a theater program.  More recently, she has been volunteering weekly at her local farmers’ market to help provide contact-free distribution of goods from local farmers, artisans, and other local businesses.  In addition, she uses her video editing skills to create videos for the farmers’ market to promote building healthier communities through local food.  Through her work with the market, she is also able to donate fresh produce to community fridges.  Kayla is excited to take part in this project to help others as the needs of the communities around her continue to change.   "; ObjectID = "BcC-Yv-5qA"; */
+"BcC-Yv-5qA.text" = "Residing in the city of Los Angeles, Kayla is a sophomore in high school who enjoys filmmaking and video editing.  Although she does not have experience with coding, Kayla has always loved helping others.  She has been able to do this in the past through volunteering over the summer to help deaf and hard of hearing children build self-esteem and communication skills through a theater program.  More recently, she has been volunteering weekly at her local farmers’ market to help provide contact-free distribution of goods from local farmers, artisans, and other local businesses.  In addition, she uses her video editing skills to create videos for the farmers’ market to promote building healthier communities through local food.  Through her work with the market, she is also able to donate fresh produce to community fridges.  Kayla is excited to take part in this project to help others as the needs of the communities around her continue to change.   ";
+
+/* Class = "UIButton"; normalTitle = "Espanol"; ObjectID = "C17-wv-zq3"; */
+"C17-wv-zq3.normalTitle" = "Espanol";
+
+/* Class = "UILabel"; text = "Segunda dosis:"; ObjectID = "DDF-fU-SEf"; */
+"DDF-fU-SEf.text" = "Segunda dosis:";
+
+/* Class = "UIButton"; normalTitle = "Locations"; ObjectID = "Dtm-st-JAx"; */
+"Dtm-st-JAx.normalTitle" = "Locations";
+
+/* Class = "UILabel"; text = "娜拉·奧姆瓦米"; ObjectID = "EuM-F5-MUu"; */
+"EuM-F5-MUu.text" = "娜拉·奧姆瓦米";
+
+/* Class = "UILabel"; text = "Claire is a sophomore in high school from the city of Los Angeles who enjoys using her resources and research to improve her community, from volunteering at the local library to doing outreach at educational nonprofits. Her scattered experiences with coding include self-taught HTML and CSS as well as rudimentary JavaScript. She hopes this project will allow the COVID-19 vaccine to become more accessible to marginalized communities and the elderly within Los Angeles."; ObjectID = "F9y-3D-ZWg"; */
+"F9y-3D-ZWg.text" = "Claire is a sophomore in high school from the city of Los Angeles who enjoys using her resources and research to improve her community, from volunteering at the local library to doing outreach at educational nonprofits. Her scattered experiences with coding include self-taught HTML and CSS as well as rudimentary JavaScript. She hopes this project will allow the COVID-19 vaccine to become more accessible to marginalized communities and the elderly within Los Angeles.";
+
+/* Class = "UIButton"; normalTitle = "Que traer"; ObjectID = "GHX-9K-hTH"; */
+"GHX-9K-hTH.normalTitle" = "Que traer";
+
+/* Class = "UIButton"; normalTitle = "是的\n"; ObjectID = "KEe-cg-jOG"; */
+"KEe-cg-jOG.normalTitle" = "是的\n";
+
+/* Class = "UILabel"; text = "Mia is a high school junior from Los Angeles, California. Mia was the Recipient of UCLA Game Lab Summer Institute Diversity in Games Scholarship in 2019. In addition, Mia is the founder of a non-profit organization that has taught over 100 underprivileged children in 4th-6th grade how to code and build robots. Fundraising has yielded over $20,000 to further the mission. Mia is passionate about helping others by using technology which is why she is extremely passionate about this project. "; ObjectID = "LZo-9a-fgO"; */
+"LZo-9a-fgO.text" = "Mia is a high school junior from Los Angeles, California. Mia was the Recipient of UCLA Game Lab Summer Institute Diversity in Games Scholarship in 2019. In addition, Mia is the founder of a non-profit organization that has taught over 100 underprivileged children in 4th-6th grade how to code and build robots. Fundraising has yielded over $20,000 to further the mission. Mia is passionate about helping others by using technology which is why she is extremely passionate about this project. ";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "Mqr-dm-ah9"; */
+"Mqr-dm-ah9.normalTitle" = "Yes";
+
+/* Class = "UILabel"; text = "Abby Fischler"; ObjectID = "N10-Br-Opi"; */
+"N10-Br-Opi.text" = "Abby Fischler";
+
+/* Class = "UILabel"; text = "Second Dose:"; ObjectID = "NIj-cr-8Yb"; */
+"NIj-cr-8Yb.text" = "Second Dose:";
+
+/* Class = "UILabel"; text = "1.带照片的证件（不必由政府签发）\n2.您在洛杉矶县居住或工作的证明"; ObjectID = "OjW-yv-wj5"; */
+"OjW-yv-wj5.text" = "1.带照片的证件（不必由政府签发）\n2.您在洛杉矶县居住或工作的证明";
+
+/* Class = "UILabel"; text = "Kayla Sinnock"; ObjectID = "Ojk-pw-nfg"; */
+"Ojk-pw-nfg.text" = "Kayla Sinnock";
+
+/* Class = "UILabel"; text = "克萊爾（Claire）是來自洛杉磯市的一名高二學生，她喜歡用自己的資源和研究來改善自己的社區，從在當地圖書館做志願者到在教育非營利組織中開展宣傳活動。 她在編碼方面的分散經驗包括自學成才的HTML和CSS以及基本的JavaScript。 她希望這個項目將使洛杉磯邊緣化社區和老年人更容易使用COVID-19疫苗。"; ObjectID = "Oyj-lf-w46"; */
+"Oyj-lf-w46.text" = "克萊爾（Claire）是來自洛杉磯市的一名高二學生，她喜歡用自己的資源和研究來改善自己的社區，從在當地圖書館做志願者到在教育非營利組織中開展宣傳活動。 她在編碼方面的分散經驗包括自學成才的HTML和CSS以及基本的JavaScript。 她希望這個項目將使洛杉磯邊緣化社區和老年人更容易使用COVID-19疫苗。";
+
+/* Class = "UILabel"; text = "第一剂"; ObjectID = "QWD-4R-KR0"; */
+"QWD-4R-KR0.text" = "第一剂";
+
+/* Class = "UILabel"; text = "米婭·納德爾"; ObjectID = "RnU-YJ-hNv"; */
+"RnU-YJ-hNv.text" = "米婭·納德爾";
+
+/* Class = "UIButton"; normalTitle = "Inscribirse"; ObjectID = "Sih-Gw-tfs"; */
+"Sih-Gw-tfs.normalTitle" = "Inscribirse";
+
+/* Class = "UILabel"; text = "Mia Nadel"; ObjectID = "T2K-JW-IMN"; */
+"T2K-JW-IMN.text" = "Mia Nadel";
+
+/* Class = "UILabel"; text = "Mia Nadel"; ObjectID = "THp-l3-5Lu"; */
+"THp-l3-5Lu.text" = "Mia Nadel";
+
+/* Class = "UIButton"; normalTitle = "Sobre nosotras\n"; ObjectID = "TQn-4y-Pd2"; */
+"TQn-4y-Pd2.normalTitle" = "Sobre nosotras\n";
+
+/* Class = "UIButton"; normalTitle = "What to bring"; ObjectID = "U57-1K-zYY"; */
+"U57-1K-zYY.normalTitle" = "What to bring";
+
+/* Class = "UILabel"; text = "您確定為非裔美國人，美洲原住民，拉丁美洲，亞洲還是中東？"; ObjectID = "UBh-vj-kqW"; */
+"UBh-vj-kqW.text" = "您確定為非裔美國人，美洲原住民，拉丁美洲，亞洲還是中東？";
+
+/* Class = "UILabel"; text = "Yes you qualify click below to find your closest vaccination center"; ObjectID = "UkV-Pt-tXJ"; */
+"UkV-Pt-tXJ.text" = "Yes you qualify click below to find your closest vaccination center";
+
+/* Class = "UILabel"; text = "1. Photo ID (does not have to be government issued)\n2. Proof that you live OR work in LA County"; ObjectID = "Xdt-KD-AUh"; */
+"Xdt-KD-AUh.text" = "1. Photo ID (does not have to be government issued)\n2. Proof that you live OR work in LA County";
+
+/* Class = "UIButton"; normalTitle = "不\n"; ObjectID = "Xkz-5x-RZ9"; */
+"Xkz-5x-RZ9.normalTitle" = "不\n";
+
+/* Class = "UILabel"; text = "米婭（Mia）是一名來自加州洛杉磯的高中生。 Mia於2019年獲得UCLA遊戲實驗室夏季學院多樣性遊戲獎學金的獲得者。此外，Mia是一個非營利組織的創始人，該組織已向100多名4-6年級的貧困兒童提供瞭如何編碼和建造機器人的知識。 籌集的資金超過20,000美元，以推動任務的發展。 Mia熱衷於通過使用技術幫助他人，這就是為什麼她對這個項目非常熱衷。"; ObjectID = "YxY-Gs-Tce"; */
+"YxY-Gs-Tce.text" = "米婭（Mia）是一名來自加州洛杉磯的高中生。 Mia於2019年獲得UCLA遊戲實驗室夏季學院多樣性遊戲獎學金的獲得者。此外，Mia是一個非營利組織的創始人，該組織已向100多名4-6年級的貧困兒童提供瞭如何編碼和建造機器人的知識。 籌集的資金超過20,000美元，以推動任務的發展。 Mia熱衷於通過使用技術幫助他人，這就是為什麼她對這個項目非常熱衷。";
+
+/* Class = "UILabel"; text = "Claire es una estudiante de segundo año en la escuela secundaria de la ciudad de Los Ángeles que disfruta usando sus recursos e investigación para mejorar su comunidad, desde ser voluntaria en la biblioteca local hasta hacer actividades de divulgación en organizaciones educativas sin fines de lucro. Sus experiencias dispersas con la codificación incluyen HTML y CSS autodidactas, así como JavaScript rudimentario. Ella espera que este proyecto permita que la vacuna COVID-19 sea más accesible para las comunidades marginadas y los ancianos dentro de Los Ángeles."; ObjectID = "ZfU-WY-5rk"; */
+"ZfU-WY-5rk.text" = "Claire es una estudiante de segundo año en la escuela secundaria de la ciudad de Los Ángeles que disfruta usando sus recursos e investigación para mejorar su comunidad, desde ser voluntaria en la biblioteca local hasta hacer actividades de divulgación en organizaciones educativas sin fines de lucro. Sus experiencias dispersas con la codificación incluyen HTML y CSS autodidactas, así como JavaScript rudimentario. Ella espera que este proyecto permita que la vacuna COVID-19 sea más accesible para las comunidades marginadas y los ancianos dentro de Los Ángeles.";
+
+/* Class = "UIButton"; normalTitle = "Críticas"; ObjectID = "aFS-Bu-MC6"; */
+"aFS-Bu-MC6.normalTitle" = "Críticas";
+
+/* Class = "UIButton"; normalTitle = "Haga clic aquí"; ObjectID = "ajm-qZ-mj5"; */
+"ajm-qZ-mj5.normalTitle" = "Haga clic aquí";
+
+/* Class = "UIButton"; normalTitle = "需要带些什么"; ObjectID = "c1B-hk-KZH"; */
+"c1B-hk-KZH.normalTitle" = "需要带些什么";
+
+/* Class = "UILabel"; text = "Abby Fischler"; ObjectID = "chM-oF-tyr"; */
+"chM-oF-tyr.text" = "Abby Fischler";
+
+/* Class = "UILabel"; text = "Nora Omwami"; ObjectID = "d7Q-0c-BCp"; */
+"d7Q-0c-BCp.text" = "Nora Omwami";
+
+/* Class = "UILabel"; text = "¿Se identifica como afroamericano, nativo americano, latinoamericano, asiático o del Medio Oriente?"; ObjectID = "eoM-3v-ai1"; */
+"eoM-3v-ai1.text" = "¿Se identifica como afroamericano, nativo americano, latinoamericano, asiático o del Medio Oriente?";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "fq7-Pt-fSE"; */
+"fq7-Pt-fSE.normalTitle" = "Sign Up";
+
+/* Class = "UILabel"; text = "克萊爾·蘇胡"; ObjectID = "g12-Qu-XQe"; */
+"g12-Qu-XQe.text" = "克萊爾·蘇胡";
+
+/* Class = "UILabel"; text = "是的，您符合資格，請單擊下面的按鈕查找疫苗接種中心！"; ObjectID = "gNa-QA-VMU"; */
+"gNa-QA-VMU.text" = "是的，您符合資格，請單擊下面的按鈕查找疫苗接種中心！";
+
+/* Class = "UILabel"; text = "Nora Omwami es una estudiante de primer año de secundaria de Los Ángeles. Desde muy joven, se ha interesado por la codificación y siempre se ha esforzado por intentar aprender nuevos aspectos de la misma. Al asistir a programas como Hack Club y The exploratory, su conocimiento de JavaScript, HTML, CSS y otros lenguajes de codificación continúa creciendo. El objetivo de Nora es ayudar a inspirar a otras jóvenes de color como ella a explorar el código y poder tener un impacto en el mundo.\n"; ObjectID = "hQr-Ir-GpQ"; */
+"hQr-Ir-GpQ.text" = "Nora Omwami es una estudiante de primer año de secundaria de Los Ángeles. Desde muy joven, se ha interesado por la codificación y siempre se ha esforzado por intentar aprender nuevos aspectos de la misma. Al asistir a programas como Hack Club y The exploratory, su conocimiento de JavaScript, HTML, CSS y otros lenguajes de codificación continúa creciendo. El objetivo de Nora es ayudar a inspirar a otras jóvenes de color como ella a explorar el código y poder tener un impacto en el mundo.\n";
+
+/* Class = "UIButton"; normalTitle = "评论"; ObjectID = "i0e-cL-hJa"; */
+"i0e-cL-hJa.normalTitle" = "评论";
+
+/* Class = "UILabel"; text = "Mia es una estudiante de secundaria de Los Ángeles, California. Mia recibió la Beca de Diversidad en Juegos del Instituto de Verano de UCLA Game Lab en 2019. Además, Mia es la fundadora de una organización sin fines de lucro que ha enseñado a más de 100 niños desfavorecidos de cuarto a sexto grado cómo codificar y construir robots. La recaudación de fondos ha generado más de $ 20,000 para promover la misión. A Mia le apasiona ayudar a los demás mediante el uso de la tecnología, por lo que es una apasionada de este proyecto.\n"; ObjectID = "i7B-Yz-xSJ"; */
+"i7B-Yz-xSJ.text" = "Mia es una estudiante de secundaria de Los Ángeles, California. Mia recibió la Beca de Diversidad en Juegos del Instituto de Verano de UCLA Game Lab en 2019. Además, Mia es la fundadora de una organización sin fines de lucro que ha enseñado a más de 100 niños desfavorecidos de cuarto a sexto grado cómo codificar y construir robots. La recaudación de fondos ha generado más de $ 20,000 para promover la misión. A Mia le apasiona ayudar a los demás mediante el uso de la tecnología, por lo que es una apasionada de este proyecto.\n";
+
+/* Class = "UILabel"; text = "Kayla, que reside en la ciudad de Los Ángeles, es una estudiante de segundo año en la escuela secundaria que disfruta de la realización de películas y la edición de videos. Aunque no tiene experiencia con la codificación, a Kayla siempre le ha encantado ayudar a los demás. Ella ha podido hacer esto en el pasado a través del voluntariado durante el verano para ayudar a los niños sordos y con problemas de audición a desarrollar su autoestima y sus habilidades de comunicación a través de un programa de teatro. Más recientemente, se ha ofrecido como voluntaria semanalmente en el mercado de agricultores local para ayudar a proporcionar distribución sin contacto de productos de agricultores locales, artesanos y otras empresas locales. Además, utiliza sus habilidades de edición de videos para crear videos para el mercado de agricultores a fin de promover la construcción de comunidades más saludables a través de la comida local. A través de su trabajo con el mercado, también puede donar productos frescos a refrigeradores comunitarios. Kayla está emocionada de participar en este proyecto para ayudar a otros a medida que las necesidades de las comunidades que la rodean continúan cambiando."; ObjectID = "jAW-Ll-PsY"; */
+"jAW-Ll-PsY.text" = "Kayla, que reside en la ciudad de Los Ángeles, es una estudiante de segundo año en la escuela secundaria que disfruta de la realización de películas y la edición de videos. Aunque no tiene experiencia con la codificación, a Kayla siempre le ha encantado ayudar a los demás. Ella ha podido hacer esto en el pasado a través del voluntariado durante el verano para ayudar a los niños sordos y con problemas de audición a desarrollar su autoestima y sus habilidades de comunicación a través de un programa de teatro. Más recientemente, se ha ofrecido como voluntaria semanalmente en el mercado de agricultores local para ayudar a proporcionar distribución sin contacto de productos de agricultores locales, artesanos y otras empresas locales. Además, utiliza sus habilidades de edición de videos para crear videos para el mercado de agricultores a fin de promover la construcción de comunidades más saludables a través de la comida local. A través de su trabajo con el mercado, también puede donar productos frescos a refrigeradores comunitarios. Kayla está emocionada de participar en este proyecto para ayudar a otros a medida que las necesidades de las comunidades que la rodean continúan cambiando.";
+
+/* Class = "UILabel"; text = "Kayla居住在洛杉磯市，是一名高中二年級學生，他喜歡電影製作和視頻編輯。 儘管她沒有編碼經驗，但Kayla一直喜歡幫助他人。 過去，她可以通過夏季的志願者活動來做到這一點，通過戲劇節目幫助聾啞和重聽兒童建立自尊和溝通技巧。 最近，她一直每週在當地農民的市場上做志願工作，以幫助他們無接觸地分配來自當地農民，工匠和其他當地企業的商品。 此外，她還利用自己的視頻編輯技能為農民市場製作視頻，以通過當地食品促進建立更健康的社區。 通過與市場的合作，她還能夠將新鮮產品捐贈給社區冰箱。 隨著她周圍社區需求的不斷變化，凱拉很高興能參與這個項目，以幫助他人。\n"; ObjectID = "jAX-rR-9Rz"; */
+"jAX-rR-9Rz.text" = "Kayla居住在洛杉磯市，是一名高中二年級學生，他喜歡電影製作和視頻編輯。 儘管她沒有編碼經驗，但Kayla一直喜歡幫助他人。 過去，她可以通過夏季的志願者活動來做到這一點，通過戲劇節目幫助聾啞和重聽兒童建立自尊和溝通技巧。 最近，她一直每週在當地農民的市場上做志願工作，以幫助他們無接觸地分配來自當地農民，工匠和其他當地企業的商品。 此外，她還利用自己的視頻編輯技能為農民市場製作視頻，以通過當地食品促進建立更健康的社區。 通過與市場的合作，她還能夠將新鮮產品捐贈給社區冰箱。 隨著她周圍社區需求的不斷變化，凱拉很高興能參與這個項目，以幫助他人。\n";
+
+/* Class = "UILabel"; text = "Claire SooHoo"; ObjectID = "lcl-YC-963"; */
+"lcl-YC-963.text" = "Claire SooHoo";
+
+/* Class = "UILabel"; text = "娜拉·奧姆瓦米（Nora Omwami）是來自洛杉磯的一名高中新生。 從很小的時候開始，她就對編碼很感興趣，並且一直努力使自己嘗試學習編碼的新方面。 通過參加諸如Hack Club和The探索性計劃之類的節目，她對JavaScript，HTML，CSS和其他編碼語言的了解不斷增長。 諾拉（Nora）的目標是幫助啟發其他像她這樣的有色年輕女孩探索代碼並能夠影響整個世界"; ObjectID = "luQ-PT-Ihp"; */
+"luQ-PT-Ihp.text" = "娜拉·奧姆瓦米（Nora Omwami）是來自洛杉磯的一名高中新生。 從很小的時候開始，她就對編碼很感興趣，並且一直努力使自己嘗試學習編碼的新方面。 通過參加諸如Hack Club和The探索性計劃之類的節目，她對JavaScript，HTML，CSS和其他編碼語言的了解不斷增長。 諾拉（Nora）的目標是幫助啟發其他像她這樣的有色年輕女孩探索代碼並能夠影響整個世界";
+
+/* Class = "UILabel"; text = "第二剂"; ObjectID = "mKH-8p-1qu"; */
+"mKH-8p-1qu.text" = "第二剂";
+
+/* Class = "UILabel"; text = "Sorry, but you don't qualify at this time."; ObjectID = "mxi-8A-kHl"; */
+"mxi-8A-kHl.text" = "Sorry, but you don't qualify at this time.";
+
+/* Class = "UILabel"; text = "艾比·費斯勒"; ObjectID = "o2v-g2-yEH"; */
+"o2v-g2-yEH.text" = "艾比·費斯勒";
+
+/* Class = "UILabel"; text = "凱拉·辛諾克"; ObjectID = "opM-ic-euj"; */
+"opM-ic-euj.text" = "凱拉·辛諾克";
+
+/* Class = "UIButton"; normalTitle = "點擊這裡\n"; ObjectID = "pH4-cz-f29"; */
+"pH4-cz-f29.normalTitle" = "點擊這裡\n";
+
+/* Class = "UILabel"; text = "艾比（Abby）是一位來自加利福尼亞洛杉磯的高中新生。 她是位點滴的代言人和她的代言人。 去年夏天，Abby還是Klossy的網絡開發營地的Kode參與者，在那裡她創建了herstemstory.net。 她的STEM STORY是一個網站，著重介紹對STEM領域產生影響的女性。 艾比（Abby）熱愛技術。 艾比（Abby）是2021年洛杉磯聯盟計算機榮譽獎（NCWIT Awards in Aspirations in Computing，AiC）的榮譽提名。"; ObjectID = "pI3-YF-PFr"; */
+"pI3-YF-PFr.text" = "艾比（Abby）是一位來自加利福尼亞洛杉磯的高中新生。 她是位點滴的代言人和她的代言人。 去年夏天，Abby還是Klossy的網絡開發營地的Kode參與者，在那裡她創建了herstemstory.net。 她的STEM STORY是一個網站，著重介紹對STEM領域產生影響的女性。 艾比（Abby）熱愛技術。 艾比（Abby）是2021年洛杉磯聯盟計算機榮譽獎（NCWIT Awards in Aspirations in Computing，AiC）的榮譽提名。";
+
+/* Class = "UIButton"; normalTitle = "Sí"; ObjectID = "pkg-9E-Tt0"; */
+"pkg-9E-Tt0.normalTitle" = "Sí";
+
+/* Class = "UILabel"; text = "Claire SooHoo"; ObjectID = "q1u-Lu-PYv"; */
+"q1u-Lu-PYv.text" = "Claire SooHoo";
+
+/* Class = "UILabel"; text = "1. Tarjeta blanca de registro de vacunas o registro electrónico de vacunas\n2. Identificación con foto"; ObjectID = "qDH-ZO-1rP"; */
+"qDH-ZO-1rP.text" = "1. Tarjeta blanca de registro de vacunas o registro electrónico de vacunas\n2. Identificación con foto";
+
+/* Class = "UILabel"; text = "1. Identificación con foto (no tiene que ser emitida por el gobierno)\n2. Prueba de que vive O trabaja en el condado de Los Ángeles"; ObjectID = "qSH-04-wCo"; */
+"qSH-04-wCo.text" = "1. Identificación con foto (no tiene que ser emitida por el gobierno)\n2. Prueba de que vive O trabaja en el condado de Los Ángeles";
+
+/* Class = "UILabel"; text = "Nora Omwami is a high school freshman from Los Angeles. From a young age, she has been interested in coding and has always pushed herself to try to learn new aspects of it. By attending programs such as Hack Club and The exploratory, her knowledge of JavaScript, HTML, CSS, and other coding languages continues to grow. It is a goal of Nora’s to help inspire other young girls of color like her to explore code and be able to impact the world."; ObjectID = "qdp-0e-TIO"; */
+"qdp-0e-TIO.text" = "Nora Omwami is a high school freshman from Los Angeles. From a young age, she has been interested in coding and has always pushed herself to try to learn new aspects of it. By attending programs such as Hack Club and The exploratory, her knowledge of JavaScript, HTML, CSS, and other coding languages continues to grow. It is a goal of Nora’s to help inspire other young girls of color like her to explore code and be able to impact the world.";
+
+/* Class = "UILabel"; text = "Sí, califica, haga clic en el botón de abajo para encontrar centros de vacunación."; ObjectID = "sIn-qA-AxP"; */
+"sIn-qA-AxP.text" = "Sí, califica, haga clic en el botón de abajo para encontrar centros de vacunación.";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "sm6-vY-aLV"; */
+"sm6-vY-aLV.normalTitle" = "English";
+
+/* Class = "UIButton"; normalTitle = "Reviews"; ObjectID = "v6l-C5-8VV"; */
+"v6l-C5-8VV.normalTitle" = "Reviews";
+
+/* Class = "UILabel"; text = "Kayla Sinnock"; ObjectID = "vr5-IN-A5c"; */
+"vr5-IN-A5c.text" = "Kayla Sinnock";
+
+/* Class = "UILabel"; text = "Abby es una estudiante de primer año de secundaria de Los Ángeles, California. Es embajadora de Bit by Bit y Generation She. Abby también participó en el campamento de desarrollo web de Kode with Klossy el verano pasado, donde creó herstemstory.net. HER STEM STORY es un sitio web que destaca a las mujeres que han tenido un impacto en su área de STEM. Abby ama todo lo relacionado con la tecnología. Abby es una Mención de Honor de Afiliado de Los Ángeles 2021 para el Premio NCWIT por Aspiraciones en Computación (AiC)."; ObjectID = "vri-n0-KW2"; */
+"vri-n0-KW2.text" = "Abby es una estudiante de primer año de secundaria de Los Ángeles, California. Es embajadora de Bit by Bit y Generation She. Abby también participó en el campamento de desarrollo web de Kode with Klossy el verano pasado, donde creó herstemstory.net. HER STEM STORY es un sitio web que destaca a las mujeres que han tenido un impacto en su área de STEM. Abby ama todo lo relacionado con la tecnología. Abby es una Mención de Honor de Afiliado de Los Ángeles 2021 para el Premio NCWIT por Aspiraciones en Computación (AiC).";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "xag-5e-7Jc"; */
+"xag-5e-7Jc.normalTitle" = "No";
