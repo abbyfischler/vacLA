@@ -18,5 +18,8 @@ class ViewController: UIViewController, WKUIDelegate{
     @IBAction func openMap(_ sender: Any) {
         UIApplication.shared.open(URL(string:"https://www.google.com/maps/d/u/0/edit?mid=16LrbL9tMzlxDzG1FEdSaP8nBntAPd2j6&usp=sharing")!)
     }
+    @IBAction func reviews(_ sender: Any) {
+        UIApplication.shared.open(URL(string:"https://www.google.com/maps/d/u/0/edit?mid=16LrbL9tMzlxDzG1FEdSaP8nBntAPd2j6&usp=sharing")!)
+    }
   
 }
