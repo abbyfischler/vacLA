@@ -1,0 +1,57 @@
+
+/* Class = "UIButton"; normalTitle = "About Us"; ObjectID = "4GE-Z9-ZWi"; */
+"4GE-Z9-ZWi.normalTitle" = "About Us";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "5C6-Ei-YZs"; */
+"5C6-Ei-YZs.normalTitle" = "No";
+
+/* Class = "UILabel"; text = "Nora Omwami"; ObjectID = "7Q0-MF-pJF"; */
+"7Q0-MF-pJF.text" = "Nora Omwami";
+
+/* Class = "UILabel"; text = "Abby is a high school freshman from Los Angeles, California. She is an ambassador for Bit by Bit and Generation She.Abby was also a participant in Kode with Klossy’s web development camp last summer where she created herstemstory.net. HER STEM STORY is a website highlighting women who have made an impact on their area of STEM. Abby loves all things technology. Abby is a 2021 Los Angeles Affiliate Honorable Mention for the NCWIT Award for Aspirations in Computing (AiC)."; ObjectID = "9so-4o-wE5"; */
+"9so-4o-wE5.text" = "Abby is a high school freshman from Los Angeles, California. She is an ambassador for Bit by Bit and Generation She.Abby was also a participant in Kode with Klossy’s web development camp last summer where she created herstemstory.net. HER STEM STORY is a website highlighting women who have made an impact on their area of STEM. Abby loves all things technology. Abby is a 2021 Los Angeles Affiliate Honorable Mention for the NCWIT Award for Aspirations in Computing (AiC).";
+
+/* Class = "UILabel"; text = "Do you make below 65k per year?"; ObjectID = "BDE-S3-XF6"; */
+"BDE-S3-XF6.text" = "Do you make below 65k per year?";
+
+/* Class = "UILabel"; text = "Residing in the city of Los Angeles, Kayla is a sophomore in high school who enjoys filmmaking and video editing.  Although she does not have experience with coding, Kayla has always loved helping others.  She has been able to do this in the past through volunteering over the summer to help deaf and hard of hearing children build self-esteem and communication skills through a theater program.  More recently, she has been volunteering weekly at her local farmers’ market to help provide contact-free distribution of goods from local farmers, artisans, and other local businesses.  In addition, she uses her video editing skills to create videos for the farmers’ market to promote building healthier communities through local food.  Through her work with the market, she is also able to donate fresh produce to community fridges.  Kayla is excited to take part in this project to help others as the needs of the communities around her continue to change.   "; ObjectID = "BcC-Yv-5qA"; */
+"BcC-Yv-5qA.text" = "Residing in the city of Los Angeles, Kayla is a sophomore in high school who enjoys filmmaking and video editing.  Although she does not have experience with coding, Kayla has always loved helping others.  She has been able to do this in the past through volunteering over the summer to help deaf and hard of hearing children build self-esteem and communication skills through a theater program.  More recently, she has been volunteering weekly at her local farmers’ market to help provide contact-free distribution of goods from local farmers, artisans, and other local businesses.  In addition, she uses her video editing skills to create videos for the farmers’ market to promote building healthier communities through local food.  Through her work with the market, she is also able to donate fresh produce to community fridges.  Kayla is excited to take part in this project to help others as the needs of the communities around her continue to change.   ";
+
+/* Class = "UIButton"; normalTitle = "Click here"; ObjectID = "Dtm-st-JAx"; */
+"Dtm-st-JAx.normalTitle" = "Click here";
+
+/* Class = "UILabel"; text = "Claire is a sophomore in high school from the city of Los Angeles who enjoys using her resources and research to improve her community, from volunteering at the local library to doing outreach at educational nonprofits. Her scattered experiences with coding include self-taught HTML and CSS as well as rudimentary JavaScript. She hopes this project will allow the COVID-19 vaccine to become more accessible to marginalized communities and the elderly within Los Angeles."; ObjectID = "F9y-3D-ZWg"; */
+"F9y-3D-ZWg.text" = "Claire is a sophomore in high school from the city of Los Angeles who enjoys using her resources and research to improve her community, from volunteering at the local library to doing outreach at educational nonprofits. Her scattered experiences with coding include self-taught HTML and CSS as well as rudimentary JavaScript. She hopes this project will allow the COVID-19 vaccine to become more accessible to marginalized communities and the elderly within Los Angeles.";
+
+/* Class = "UILabel"; text = "Mia is a high school junior from Los Angeles, California. Mia was the Recipient of UCLA Game Lab Summer Institute Diversity in Games Scholarship in 2019. In addition, Mia is the founder of a non-profit organization that has taught over 100 underprivileged children in 4th-6th grade how to code and build robots. Fundraising has yielded over $20,000 to further the mission. Mia is passionate about helping others by using technology which is why she is extremely passionate about this project. "; ObjectID = "LZo-9a-fgO"; */
+"LZo-9a-fgO.text" = "Mia is a high school junior from Los Angeles, California. Mia was the Recipient of UCLA Game Lab Summer Institute Diversity in Games Scholarship in 2019. In addition, Mia is the founder of a non-profit organization that has taught over 100 underprivileged children in 4th-6th grade how to code and build robots. Fundraising has yielded over $20,000 to further the mission. Mia is passionate about helping others by using technology which is why she is extremely passionate about this project. ";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "Mqr-dm-ah9"; */
+"Mqr-dm-ah9.normalTitle" = "Yes";
+
+/* Class = "UILabel"; text = "Kayla Sinnock"; ObjectID = "Ojk-pw-nfg"; */
+"Ojk-pw-nfg.text" = "Kayla Sinnock";
+
+/* Class = "UILabel"; text = "Mia Nadel"; ObjectID = "T2K-JW-IMN"; */
+"T2K-JW-IMN.text" = "Mia Nadel";
+
+/* Class = "UILabel"; text = "Yes you qualify click below to find your closest vaccination center"; ObjectID = "UkV-Pt-tXJ"; */
+"UkV-Pt-tXJ.text" = "Yes you qualify click below to find your closest vaccination center";
+
+/* Class = "UILabel"; text = "Abby Fischler"; ObjectID = "chM-oF-tyr"; */
+"chM-oF-tyr.text" = "Abby Fischler";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "fq7-Pt-fSE"; */
+"fq7-Pt-fSE.normalTitle" = "Sign Up";
+
+/* Class = "UILabel"; text = "Claire SooHoo"; ObjectID = "lcl-YC-963"; */
+"lcl-YC-963.text" = "Claire SooHoo";
+
+/* Class = "UILabel"; text = "Sorry, but you don't qualify at this time."; ObjectID = "mxi-8A-kHl"; */
+"mxi-8A-kHl.text" = "Sorry, but you don't qualify at this time.";
+
+/* Class = "UILabel"; text = "Nora Omwami is a high school freshman from Los Angeles. From a young age, she has been interested in coding and has always pushed herself to try to learn new aspects of it. By attending programs such as Hack Club and The exploratory, her knowledge of JavaScript, HTML, CSS, and other coding languages continues to grow. It is a goal of Nora’s to help inspire other young girls of color like her to explore code and be able to impact the world."; ObjectID = "qdp-0e-TIO"; */
+"qdp-0e-TIO.text" = "Nora Omwami is a high school freshman from Los Angeles. From a young age, she has been interested in coding and has always pushed herself to try to learn new aspects of it. By attending programs such as Hack Club and The exploratory, her knowledge of JavaScript, HTML, CSS, and other coding languages continues to grow. It is a goal of Nora’s to help inspire other young girls of color like her to explore code and be able to impact the world.";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "sm6-vY-aLV"; */
+"sm6-vY-aLV.normalTitle" = "English";
