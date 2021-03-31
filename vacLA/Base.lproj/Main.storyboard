@@ -200,11 +200,9 @@
                                     <segue destination="qsD-Z2-EV9" kind="show" id="PDt-f6-8DJ"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UBh-vj-kqW">
-                                <rect key="frame" x="71" y="434" width="273" height="28"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="您確定為非裔美國人，美洲原住民，拉丁美洲，亞洲還是中東？" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UBh-vj-kqW">
+                                <rect key="frame" x="35" y="365" width="344" height="167"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <string key="text">您每年的收入低於65k嗎？
-</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="23"/>
                                 <color key="textColor" red="0.30720782279999997" green="0.67359995839999998" blue="0.71765762570000002" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <color key="highlightedColor" red="0.97123044729999997" green="0.85682213309999999" blue="0.73331338170000004" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
@@ -217,7 +215,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Qj7-5L-8Zq" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2816" y="90"/>
+            <point key="canvasLocation" x="2815.9420289855075" y="89.732142857142847"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="BXr-64-52H">
@@ -340,8 +338,8 @@
                                     <segue destination="1ro-Jq-5Nc" kind="show" id="8Fk-au-Xty"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="¿Gana menos de 65k por año?" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eoM-3v-ai1">
-                                <rect key="frame" x="40" y="446" width="335" height="28"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="¿Se identifica como afroamericano, nativo americano, latinoamericano, asiático o del Medio Oriente?" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eoM-3v-ai1">
+                                <rect key="frame" x="30" y="403" width="354" height="91"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="28" id="Hyt-qy-DU5"/>
                                 </constraints>
@@ -372,7 +370,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="gsz-OV-3Kj" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1143" y="833"/>
+            <point key="canvasLocation" x="1142.0289855072465" y="832.36607142857144"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="X3S-w0-4yo">
@@ -1272,8 +1270,8 @@
                                     <segue destination="Yro-HK-d33" kind="show" id="o37-s3-j9i"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Do you make below 65k per year?" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BDE-S3-XF6">
-                                <rect key="frame" x="40" y="404" width="335" height="28"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Do you identify as African American, Native American, Latin American, Asian or middleastern?" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="4" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BDE-S3-XF6">
+                                <rect key="frame" x="40" y="359" width="335" height="118"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="23"/>
                                 <color key="textColor" red="0.30720782279999997" green="0.67359995839999998" blue="0.71765762570000002" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
